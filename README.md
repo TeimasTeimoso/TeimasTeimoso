@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="left">I'm the dude!</h1>
 
-<!--
-**TeimasTeimoso/TeimasTeimoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">This could have been a "Big Lebowski" reference, but no, I really am the dude if you're into Backend Development, Machine Learning and Data Engineering.<br><br>I'm a Software Engineer with a Master's Degree in Computer Science and a passion for the data world with experience both in the industry and academia.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruben-teimas" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<p align="left">Automatic Detection of Persuation Techniques on Social Networks:</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeimasTeimoso.TeimasTeimoso&right_color=teal&left_text=Fans"  />
+</div>
+
+###
