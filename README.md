@@ -1,31 +1,12 @@
-<h1 align="left">I'm the dude!</h1>
+### I'm the dude
+This could have been a **Big Lebowski** reference, but no, I really am the dude if you're into Backend Development, Data Engineering and Machine Learning.
 
-###
+#### About me
+My name is Ruben, I have a Master Degree on Computer Science and experience both on the industry and academia. Throughout my journey I have developed REST APIs, ETL pipelines and classification models giving me a broader knowledge of software development lifecycle and business needs. 
 
-<p align="left">This could have been a "Big Lebowski" reference, but no, I really am the dude if you're into Backend Development, Machine Learning and Data Engineering.<br><br>I'm a Software Engineer with a Master's Degree in Computer Science and a passion for the data world with experience both in the industry and academia.</p>
+I'd love to start contributing to open-source projects! If you want to discusse any ideas feel free to message me on [LinkedIn](https://www.linkedin.com/in/ruben-teimas/).
 
-###
+#### Personal Projects
+- [**Automatic Detection of Persuation Techniques**](https://github.com/TeimasTeimoso/ADPT-AI): Multilabel text classification model using DistilBERT and CNNs, implemented with PyTorch.
+- [**Sbotify**](https://github.com/TeimasTeimoso/Sbotify): Speech-to-text bot to controll Spotify with voice commands.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruben-teimas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Projects</h2>
-
-###
-
-<p align="left">Automatic Detection of Persuation Techniques on Social Networks:</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TeimasTeimoso.TeimasTeimoso&right_color=teal&left_text=Fans"  />
-</div>
-
-###
