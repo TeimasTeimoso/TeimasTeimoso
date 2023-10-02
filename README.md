@@ -1,6 +1,5 @@
 ### I'm the dude
-
-![](https://komarev.com/ghpvc/?username=TeimasTeimoso&style=flat-square)  
+ 
 This could have been a **Big Lebowski** reference, but no, I really am the dude if you're into Backend Development, Data Engineering and Machine Learning.
 
 #### About me
